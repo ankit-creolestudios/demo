@@ -1,0 +1,19 @@
+@import "./login.scss";
+@import "./loader.scss";
+@import "./Home.scss";
+@import "./Product.scss";
+h1 {
+  font-size: 35px;
+  font-weight: bold;
+}
+.form__title {
+  margin: 20px 0;
+  text-align: center;
+}
+.form_more_area {
+  display: flex;
+  justify-content: space-between;
+  a {
+    font-size: 16px;
+  }
+}
